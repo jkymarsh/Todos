@@ -15,3 +15,5 @@ Some things I still have forthcoming as far as updates:
 - Code cleanup, refactoring, and restructuring
 - Tweak Require.js build script
 - Tweak JSHint config script
+
+Please note that there are still **a lot** of outdated/unnecessary files at this point (namely, most build/config/ignore files). Update them yourself for now.
